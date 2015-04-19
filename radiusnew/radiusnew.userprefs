@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="radiusnew\radiusnew.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.nexus5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="radiusnew\MainActivity.cs">
+    <Files>
+      <File FileName="radiusnew\MainActivity.cs" Line="3" Column="3" />
+      <File FileName="radiusnew\DetailView.cs" Line="4" Column="4" />
+      <File FileName="radiusnew\DataAdapter.cs" Line="18" Column="18" />
+      <File FileName="radiusnew\Properties\AndroidManifest.xml" Line="95" Column="95" />
+      <File FileName="radiusnew\Resources\values\Strings.xml" Line="87" Column="87" />
+      <File FileName="radiusnew\Assets\AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="radiusnew\googlemap_radius.cs" Line="67" Column="67" />
+      <File FileName="..\..\..\AppData\Local\Xamarin\Android.Support.v7.AppCompat\21.0.3\embedded\res\values-v11\values.xml" Line="6" Column="6" />
+      <File FileName="..\..\..\AppData\Local\Xamarin\Android.Support.v7.AppCompat\21.0.3\embedded\res\values-v14\values.xml" Line="1" Column="1" />
+      <File FileName="..\..\..\AppData\Local\Xamarin\Android.Support.v7.AppCompat\21.0.3\embedded\res\drawable\abc_cab_background_top_material.xml" Line="14" Column="14" />
+      <File FileName="..\..\..\AppData\Local\Xamarin\Android.Support.v7.AppCompat\21.0.3\embedded\res\layout\abc_screen_toolbar.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.radiusnew MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

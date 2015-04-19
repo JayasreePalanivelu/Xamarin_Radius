@@ -1,0 +1,6 @@
+C:\Users\OEM\Documents\Projects\radiusnew\radiusnew\bin\Debug\radiusnew.dll
+C:\Users\OEM\Documents\Projects\radiusnew\packages\Xamarin.GooglePlayServices.22.0.0.0\lib\MonoAndroid41\GooglePlayServicesLib.dll
+C:\Users\OEM\Documents\Projects\radiusnew\Components\restsharp-105.0.1.0\lib\android\RestSharp.MonoDroid.dll
+C:\Users\OEM\Documents\Projects\radiusnew\packages\Xamarin.Android.Support.v4.21.0.3.0\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll
+C:\Users\OEM\Documents\Projects\radiusnew\packages\Xamarin.Android.Support.v7.AppCompat.21.0.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\OEM\Documents\Projects\radiusnew\packages\Xamarin.Android.Support.v7.MediaRouter.21.0.3.0\lib\MonoAndroid403\Xamarin.Android.Support.v7.MediaRouter.dll

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget44"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <ImageButton
+        android:id="@+id/ImageOpenHrs"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/widget42" />
+    <TextView
+        android:id="@+id/txtOpenHrs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ImageOpenHrs"
+        android:layout_toRightOf="@+id/ImageOpenHrs"
+        android:inputType="textMultiLine" />
+    <TextView
+        android:id="@+id/txtAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/ImageAddress"
+        android:layout_toRightOf="@+id/ImageAddress"
+        android:inputType="textMultiLine" />
+    <ImageButton
+        android:id="@+id/ImageAddress"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/widget35" />
+    <TextView
+        android:id="@+id/widget35"
+        android:layout_width="199dp"
+        android:layout_height="33dp"
+        android:layout_marginLeft="40dp"
+        android:text="Address"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/Imagetelephone" />
+    <TextView
+        android:id="@+id/txtTelephone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/Imagetelephone"
+        android:layout_alignTop="@id/Imagetelephone" />
+    <ImageButton
+        android:id="@+id/Imagetelephone"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="40dp"
+        android:layout_below="@+id/widget32" />
+    <TextView
+        android:id="@+id/widget32"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="40dp"
+        android:text="Telephone"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/widget42"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="40dp"
+        android:text="Open Hours"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_below="@id/ImageAddress" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">radiusnew</string>
+	<string name = "google_maps_key">AIzaSyCe3mKboblmqHzknzX0Jw2dz2STtFsCPDc </string>
+</resources>
